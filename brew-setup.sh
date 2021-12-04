@@ -4,6 +4,8 @@
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 brew install google-chrome
+brew install git
+brew install --cask gitkraken
 
 # iterm2 with theme
 brew install iterm2
